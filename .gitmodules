@@ -1,0 +1,6 @@
+[submodule "thesis"]
+	path = thesis
+	url = git@github.com:mohuangrui/ucasthesis.git
+[submodule "proposal"]
+	path = proposal
+	url = git@github.com:mohuangrui/ucasproposal.git
